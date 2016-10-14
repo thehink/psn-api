@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Benjamin Rizk"
+  },
+  "bugs": {
+    "url": "https://github.com/thehink/PsnApi/issues"
+  },
+  "dependencies": {
+    "fetch-cookie": "^0.1.4",
+    "node-fetch": "^1.6.3",
+    "querystring": "^0.2.0"
+  },
+  "description": "Access Playstation API",
+  "homepage": "https://github.com/thehink/PsnApi",
+  "keywords": [
+    "playstation",
+    "psn",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "PsnApi",
+  "readme": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehink/PsnApi.git"
+  },
+  "version": "0.0.1"
+}
