@@ -1,4 +1,5 @@
 # PsnApi
+A quickly hacked together Playstation API module
 
 ##Usage
 1. ```npm install https://github.com/thehink/PsnApi.git --save```
