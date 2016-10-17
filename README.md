@@ -1,13 +1,13 @@
-# PsnApi
+# psn-api
 A quickly hacked together Playstation API module
 
 ##Usage
-1. ```npm install https://github.com/thehink/PsnApi.git --save```
-2. ```const psnApi = require('PsnApi')```
+1. ```npm install https://github.com/thehink/psn-api.git --save```
+2. ```const psnApi = require('psn-api')```
 
 ###Example
 ```javascript
-const psnApi = require('PsnApi');
+const psnApi = require('psn-api');
 
 let psn = new psnApi("email", "password");
 
@@ -30,7 +30,7 @@ psn.login().then(profile => {
     .catch(error => {
         console.log(error);
     });
-    
+
    ```
 
 ##Todo
